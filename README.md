@@ -14,6 +14,20 @@ This project is a Machine Learning-based solution for predicting whether an emai
 
 ---
 
+## Dependencies
+- pandas
+- numpy
+- scikit-learn
+- nltk
+- matplotlib (optional)
+
+Make sure to download NLTK stopwords:
+```sh
+import nltk
+nltk.download('stopwords')
+```
+
+
 ## How to Use
 1. Clone this repository:
    ```sh
